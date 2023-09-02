@@ -1,0 +1,6 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/GDMeira/projeto15-InkAndPaper-back
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/julianapereiradev/projeto15-InkAndPaper-front
